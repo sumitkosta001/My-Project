@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/sumitkosta001/My-Leetcode/tree/master/0835-image-overlap) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/sumitkosta001/My-Leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->

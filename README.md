@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumitkosta001/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0835-image-overlap](https://github.com/sumitkosta001/My-Leetcode/tree/master/0835-image-overlap) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitkosta001/My-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3903-smallest-stable-index-i](https://github.com/sumitkosta001/My-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sumitkosta001/My-Leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -15,9 +16,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumitkosta001/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/sumitkosta001/My-Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sumitkosta001/My-Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitkosta001/My-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -67,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1068-product-sales-analysis-i](https://github.com/sumitkosta001/My-Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sumitkosta001/My-Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/sumitkosta001/My-Leetcode/tree/master/1661-average-time-of-process-per-machine) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->

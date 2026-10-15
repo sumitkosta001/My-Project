@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/sumitkosta001/My-Leetcode/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumitkosta001/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0835-image-overlap](https://github.com/sumitkosta001/My-Leetcode/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -131,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumitkosta001/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/sumitkosta001/My-Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->

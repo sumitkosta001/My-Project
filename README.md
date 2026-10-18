@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sumitkosta001/My-Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/sumitkosta001/My-Leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2364-count-number-of-bad-pairs](https://github.com/sumitkosta001/My-Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sumitkosta001/My-Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/sumitkosta001/My-Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/sumitkosta001/My-Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sumitkosta001/My-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sumitkosta001/My-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2364-count-number-of-bad-pairs](https://github.com/sumitkosta001/My-Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2364-count-number-of-bad-pairs](https://github.com/sumitkosta001/My-Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/sumitkosta001/My-Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/sumitkosta001/My-Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sumitkosta001/My-Leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/sumitkosta001/My-Leetcode/tree/master/0283-move-zeroes) |
+## Counting
+|  |
+| ------- |
+| [2364-count-number-of-bad-pairs](https://github.com/sumitkosta001/My-Leetcode/tree/master/2364-count-number-of-bad-pairs) |
 <!---LeetCode Topics End-->

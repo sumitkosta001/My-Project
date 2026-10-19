@@ -1,14 +1,19 @@
 class Solution {
 public:
     vector<int> targetIndices(vector<int>& nums, int target) {
-        int n = nums.size();
-        int less_tar = 0, cnt = 0;
-        for(int i = 0;i<n;i++){
-            if(nums[i] < target) less_tar++;
-            else if(nums[i] == target) cnt++;
+        int cntLess = 0, cntGr = 0;
+        for(auto it : nums){
+            if(it < target){
+                cntLess++;
+            }else if(it > target){
+                cntGr++;
+            }
         }
-        vector<int> ans(cnt);
-        for(int i = 0;i<cnt;i++) ans[i] = less_tar+i;
-        return ans;
+        vector<int> sol;
+        int n = nums.size() - cntGr - cntLess;
+        for(int i = 0; i < n; i++){
+            sol.push_back(i + cntLess);
+        }
+        return sol;
     }
 };
